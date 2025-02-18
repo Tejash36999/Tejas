@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "tejash",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bd74124d-7814-4ef4-a03a-de52bc1d471b",
+      "database_name": "Tejash"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
